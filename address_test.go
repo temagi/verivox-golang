@@ -105,5 +105,5 @@ func readDataFile(filename string) []string{
 			panic(err)
 		}
 	}
-	return strings.Split(string(data), "\r\n")
+	return strings.Split(string(data), "\n")
 }

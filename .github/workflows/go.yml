@@ -10,12 +10,16 @@ on:
     branches: [ "main" ]
 
 jobs:
-  container-test-job:
-    runs-on: ubuntu-latest
-    container: golang:1.21-alpine
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
 
-      - name: Test
-        run: go test
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '>=1.21'
+
+    - name: Test
+      run: go test -v ./...
