@@ -1,0 +1,29 @@
+Cohnstr.
+Einsteinstr.
+Erich-Weinert-Str.
+Georg-Blank-Str.
+Goethestr.
+Greifswalder Str.
+Grellstr.
+Gubitzstr.
+Gürtelstr.
+Hanns-Eisler-Str.
+Hosemannstr.
+Küselstr.
+Lindenhoekweg
+Mandelstr.
+Michelangelostr.
+Naugarder Str.
+Ostseeplatz
+Ostseestr.
+Paul-Grasse-Str.
+Pieskower Weg
+Prenzlauer Allee
+Preußstr.
+Rietzestr.
+Schieritzstr.
+Sodtkestr.
+Storkower Str.
+Sültstr.
+Thomas-Mann-Str.
+Trachtenbrodtstr.
