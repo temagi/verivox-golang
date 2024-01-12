@@ -4,7 +4,6 @@ go 1.21.3
 
 require (
 	github.com/stretchr/testify v1.8.4
-	github.com/tidwall/gjson v1.17.0
 	github.com/valyala/fasthttp v1.51.0
 )
 
